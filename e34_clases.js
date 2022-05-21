@@ -3,7 +3,7 @@
 
 class TransbordadorEspacial {       // La convencion para defini clases es UpperCamelCase
   constructor(planeta) {            // Constructor es la funcion que se llama  
-    this.planeta = planeta;          // automaticamente cuando creemos un objeto
+    this.planeta = planeta;         // automaticamente cuando creemos un objeto
   }
 };
 
